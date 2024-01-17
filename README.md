@@ -1,3 +1,4 @@
+
 # List of common T1 and SO(s) used by Threat groups
 - **Application Layer Protocol**: Adversaries use application layer protocols for communication and data transfer within a target network.
 
@@ -30,3 +31,4 @@
 - **Signed Binary Proxy Execution**: This technique involves the use of signed binaries to proxy execution of malicious code.
 
 - **System Network Configuration Discovery**: Adversaries gather information about the network configuration of a target system.
+#![image](https://github.com/Krimson-Squad/common-techniques-n-software/assets/111997815/4fa87712-b119-4779-810a-227b3d76c48b)
